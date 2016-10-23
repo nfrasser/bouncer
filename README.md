@@ -4,4 +4,4 @@
 
 For CS 488 Computer Graphics, Fall 2016, Univerity of Waterloo.
 
-Requires a working puppet assignment implementation to run.
+Requires a working puppet assignment to run.
